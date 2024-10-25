@@ -7,7 +7,7 @@
    <tr>
      <td rowspan=2> <img src="./metrics.classic.svg" alt="classic" /> </td>
      <td> 
-	     <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="fullyear" /> 
+	     <img src="./metrics.plugin.isocalendar.halfyear.svg" alt="halfyear" /> 
      </td>
    </tr>
    <tr>
