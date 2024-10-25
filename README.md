@@ -1,4 +1,9 @@
-## Hi there 👋
+<hr>
+<h1 align="center">Hi 👋, I'm Asiri Dhannjaya </h1>
+
+<p> <img src="https://komarev.com/ghpvc/?username=Black-randy&label=Profile%20views&color=dc143c&style=flat&base=70" alt="Black-randy" /> </p>
+
+
 
 <!--
 **Black-randy/Black-randy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
