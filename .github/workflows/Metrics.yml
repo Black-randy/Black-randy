@@ -1,11 +1,10 @@
-# https://github.com/lowlighter/metrics
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule hourly updates
+  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # (optional) Run workflow manually
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -23,16 +22,17 @@ jobs:
           user: Black-randy
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Canada/Mountain
+          config_timezone: Asia/Colombo
           repositories_skipped: Black-randy
+          
+          base_hireable: yes
+          config_twemoji: yes
+          repositories_forks: yes
 
           plugin_traffic: yes
           plugin_gists: yes
-          plugin_lines: yes
-          plugin_lines_history_limit: 3
-          plugin_lines_delay: 30
-          plugin_lines_repositories_limit: 10
-          plugin_lines_sections: base, repositories
+
+          
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
