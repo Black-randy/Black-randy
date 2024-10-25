@@ -29,18 +29,29 @@ jobs:
           config_twemoji: yes
           repositories_forks: yes
 
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_timestamps: yes
+          plugin_activity_visibility: public
+
           plugin_traffic: yes
           plugin_gists: yes
-
           
-      - name: Full-year calendar
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          
+      - name: half-year calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.plugin.isocalendar.halfyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
+          
       - name: Most used
         uses: lowlighter/metrics@latest
         with:
@@ -61,6 +72,7 @@ jobs:
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_load: 300
           plugin_languages_recent_days: 14
+          
       - name: Recently starred
         uses: lowlighter/metrics@latest
         with:
@@ -69,6 +81,7 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
+          
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
