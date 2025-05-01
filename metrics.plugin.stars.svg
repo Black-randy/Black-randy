@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="256" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="273" class="">
     <defs>
         <style/>
     </defs>
@@ -79,7 +79,7 @@
                                         <span>starred 27 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Hydra is a game launcher with its own embedded bittorrent client</div>
+                                <div class="field description">Hydra Launcher is an open-source gaming platform created to be the single tool that you need</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
