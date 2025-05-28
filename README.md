@@ -1,6 +1,6 @@
 <a href="#"><img align="center" alt="Welcome" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/Black-randy/Black-randy/refs/heads/main/Welcome.svg" /></a>
 
-<h1 align="center">Hi 👋, I'm Asiri Dhannjaya</h1>
+<h1 align="center">Hi 👋, I'm Asiri Dhananjaya</h1>
 <h3> - Just a normal student <br/> - Open to Work <br/> </h3>
 <a href="#-metrics--"><img src="https://raw.githubusercontent.com/Black-randy/Black-randy/refs/heads/main/colorful_line.gif" alt="colorful line"></a>
 
