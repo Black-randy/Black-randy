@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="847" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1236" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -282,6 +282,261 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 51 commits in
+                                        <span class="repo">Unitec-Software-Solutions/Restaurent-Management-Sysytem</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8e659b6</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(stock-report): add detailed stock report with filters and statistics
+Created stock-report.blade.php with filter options, summary statistics, and multiple view types.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#abdc569</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(gtn-report): add comprehensive GTN report with filters and statistics
+Created gtn-report.blade.php, implemented filters, summary statistics, and detailed views for GTN analysis.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50e0842</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(category-report): add detailed category performance report
+Created a new category report with filters, summary statistics, and insights. Includes category data table and stock status distribution.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6915f26</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#9AAAB4" d="M31.5 4l-1.784 4.542L27.932 4h-4.147l-1.926 4.903L19.932 4h-3.863l-1.926 4.903L12.216 4H8.068L6.284 8.542 4.5 4H2.133l3.735 28.013h24.263L33.867 4H31.5zm-5.642 1.678l2.459 6.425-2.601 6.621-2.457-6.254 2.599-6.792zM18 6.049l2.457 6.42L18 18.723l-2.457-6.254L18 6.049zm-7.858-.371l2.599 6.792-2.457 6.254-2.601-6.621 2.459-6.425zM5.958 16.611l.326-.853 2.549 6.66-1.573 4.004-1.302-9.811zM8.068 32l2.216-5.79L12.5 32H8.068zm3.668-9.582l2.407-6.288 2.406 6.288-2.406 6.126-2.407-6.126zM15.784 32L18 26.21 20.216 32h-4.432zm3.667-9.582l2.406-6.288 2.406 6.288-2.406 6.126-2.406-6.126zM23.5 32l2.216-5.79L27.932 32H23.5zm5.392-5.192l-1.725-4.39 2.549-6.659.411 1.074-1.235 9.975z"/>
+                                                <path fill="#67757F" d="M32 34c0-1.104-.896-2-2-2H6c-1.104 0-2 .896-2 2s.896 2 2 2h24c1.104 0 2-.896 2-2zm4-32c0-1.105-.896-2-2-2H2C.896 0 0 .896 0 2c0 1.105.896 2 2 2h32c1.104 0 2-.895 2-2z"/>
+                                            </svg>
+                                            refactor(srn-report): remove unused summary and data table sections
+Removed commented-out summary cards and SRN data table from srn-report.blade.php
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b9c08f</div>
+                                        <div class="message"><svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/><path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/></svg> feat(stock-report): enhance stock report layout and navigation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca7ad7d</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(srn-report): add PDF export dropdown functionality
+Added a dropdown for PDF export options (detailed, summary, master only) in the SRN report view. Updated index.blade.php and included necessary JavaScript for dropdown behavior.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c848a9c</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(gtn-report): enhance report layout and navigation
+Improved navigation buttons and report structure in index.blade.php
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#693e418</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(grn-report): add PDF export functionality with view options
+Implemented PDF export dropdown for GRN reports with detailed, summary, and master-only views in index.blade.php.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ed2b76</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(pdf-export): implement PDF generation for various reports
+Added methods for generating PDF reports for Stock, Stock Transactions, GTN, SRN, GRN, and Category. Updated view data structure for each report.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f13f8f</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(report): add PDF export functionality for stock, GRN, GTN, and SRN reports
+Implemented PDF export options in inventoryStock, inventoryGrn, inventoryGtn, and inventorySrn methods. Added new export functions for each report type.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#241b5e1</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(pdf-report): create base template for PDF reports
+Added a new base template for generating PDF reports with dynamic organization info, titles, and footers.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d012e8</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#9AAAB4" d="M31.5 4l-1.784 4.542L27.932 4h-4.147l-1.926 4.903L19.932 4h-3.863l-1.926 4.903L12.216 4H8.068L6.284 8.542 4.5 4H2.133l3.735 28.013h24.263L33.867 4H31.5zm-5.642 1.678l2.459 6.425-2.601 6.621-2.457-6.254 2.599-6.792zM18 6.049l2.457 6.42L18 18.723l-2.457-6.254L18 6.049zm-7.858-.371l2.599 6.792-2.457 6.254-2.601-6.621 2.459-6.425zM5.958 16.611l.326-.853 2.549 6.66-1.573 4.004-1.302-9.811zM8.068 32l2.216-5.79L12.5 32H8.068zm3.668-9.582l2.407-6.288 2.406 6.288-2.406 6.126-2.407-6.126zM15.784 32L18 26.21 20.216 32h-4.432zm3.667-9.582l2.406-6.288 2.406 6.288-2.406 6.126-2.406-6.126zM23.5 32l2.216-5.79L27.932 32H23.5zm5.392-5.192l-1.725-4.39 2.549-6.659.411 1.074-1.235 9.975z"/>
+                                                <path fill="#67757F" d="M32 34c0-1.104-.896-2-2-2H6c-1.104 0-2 .896-2 2s.896 2 2 2h24c1.104 0 2-.896 2-2zm4-32c0-1.105-.896-2-2-2H2C.896 0 0 .896 0 2c0 1.105.896 2 2 2h32c1.104 0 2-.895 2-2z"/>
+                                            </svg>
+                                            chore(grn-report): remove unused detailed view analysis code
+Removed unnecessary sections related to supplier performance, branch receipt, monthly trends, and recent GRN details from grn-report.blade.php
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7fa9ef0</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(grn-report): add GRN report generation with filters and statistics
+Created grn-report.blade.php, implemented filter display, summary statistics, and detailed views for GRN analysis.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6ef10f</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(srn-report): add detailed SRN report generation
+Created srn-report.blade.php for comprehensive SRN analysis, including filters, summary statistics, and detailed views.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42f682c</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#9AAAB4" d="M31.5 4l-1.784 4.542L27.932 4h-4.147l-1.926 4.903L19.932 4h-3.863l-1.926 4.903L12.216 4H8.068L6.284 8.542 4.5 4H2.133l3.735 28.013h24.263L33.867 4H31.5zm-5.642 1.678l2.459 6.425-2.601 6.621-2.457-6.254 2.599-6.792zM18 6.049l2.457 6.42L18 18.723l-2.457-6.254L18 6.049zm-7.858-.371l2.599 6.792-2.457 6.254-2.601-6.621 2.459-6.425zM5.958 16.611l.326-.853 2.549 6.66-1.573 4.004-1.302-9.811zM8.068 32l2.216-5.79L12.5 32H8.068zm3.668-9.582l2.407-6.288 2.406 6.288-2.406 6.126-2.407-6.126zM15.784 32L18 26.21 20.216 32h-4.432zm3.667-9.582l2.406-6.288 2.406 6.288-2.406 6.126-2.406-6.126zM23.5 32l2.216-5.79L27.932 32H23.5zm5.392-5.192l-1.725-4.39 2.549-6.659.411 1.074-1.235 9.975z"/>
+                                                <path fill="#67757F" d="M32 34c0-1.104-.896-2-2-2H6c-1.104 0-2 .896-2 2s.896 2 2 2h24c1.104 0 2-.896 2-2zm4-32c0-1.105-.896-2-2-2H2C.896 0 0 .896 0 2c0 1.105.896 2 2 2h32c1.104 0 2-.895 2-2z"/>
+                                            </svg>
+                                            chore(.gitignore): remove laravel.log from version control
+Removed laravel.log from version control and added storage/logs/*.log to ignore list.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51b2ed5</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            fix(.gitignore): correct path separator for laravel log
+Updated path from 'storage\logs\laravel.log' to 'storage/logs/laravel.log'
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1a2e3a</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(createOrganization): add logging for organization creation
+Added logging to indicate successful organization creation in createOrganization.ts
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01fd4b7</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#8899A6" d="M34.247 6.324l-2.742 2.743s-1.829.914-3.657-.915c-1.829-1.828-.915-3.657-.915-3.657l2.743-2.743C30.591.838 29.492 0 28.667 0c-4.051 0-7.334 3.283-7.334 7.333 0 .569.072 1.121.194 1.653l-6.199 6.199 5.485 5.485 6.199-6.198c.533.122 1.084.194 1.654.194 4.05 0 7.333-3.283 7.333-7.333.001-.83-.838-1.923-1.752-1.009zm-19.027 9.04L3.031 27.552c-1.495 1.496-1.495 3.921 0 5.417 1.497 1.495 3.921 1.495 5.417 0l12.187-12.188-5.415-5.417zM5.763 31.838c-.819 0-1.482-.664-1.482-1.482s.664-1.483 1.482-1.483c.819 0 1.482.664 1.482 1.483 0 .818-.663 1.482-1.482 1.482z"/>
+                                                <path fill="#F4900C" d="M30.83 33.279c1.166 1.166 3.022 1.221 4.121.121 1.1-1.1 1.045-2.955-.121-4.121L11.565 6.014c-1.167-1.167-3.021-1.221-4.121-.121-1.1 1.1-1.045 2.955.121 4.121L30.83 33.279z"/>
+                                                <path fill="#66757F" d="M21.444.893s-6-3-11 2l-7 7s-1-1-2 0l-1 1s-1 1 0 2l4 4s1 1 2 0l1-1s1-1 0-2l-.078-.078c.77-.743 1.923-1.5 3.078-.922l4-4s-1-3 1-5 3-2 5-2 1-1 1-1z"/>
+                                            </svg>
+                                            refactor(addItemsToInventory): comment out error handling code
+Commented out error logging and screenshot functionality in addItemsToInventory.ts
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72d4e77</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            feat(createSubscriptionPlan): streamline subscription plan creation process
+Refactored createSubscriptionPlan.ts to improve clarity and organization of the subscription plan creation steps.
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e487df0</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            fix(admin workflow): comment out createOrganization in tests
+Commented out createOrganization in Admin Workflow and adjusted test structure.
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">25 Jul 2025, 17:13:04</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#175 <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/><path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/></svg> Reporting Functions PDFs </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">Unitec-Software-Solutions/Restaurent-Management-Sysytem</span></div>
+                                    <div>42 files changed <span class="code">++4851 --228</span></div>
+                                </div>
+                                <div class="timestamp">25 Jul 2025, 17:13:03</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Unitec-Software-Solutions/Restaurent-Management-Sysytem</span>
                                     </div>
@@ -338,46 +593,12 @@ Removed summary cards and GTN data table from gtn-report.blade.php
                                 <div class="timestamp">25 Jul 2025, 16:52:49</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">copilot/fix-168</span>
-                                        in
-                                        <span class="repo">Unitec-Software-Solutions/Restaurent-Management-Sysytem</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">25 Jul 2025, 16:52:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dev-asiri-reports</span>
-                                        in
-                                        <span class="repo">Unitec-Software-Solutions/Restaurent-Management-Sysytem</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">25 Jul 2025, 16:43:42</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2025, 19:04:32 (timezone Asia/Colombo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2025, 19:46:44 (timezone Asia/Colombo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
